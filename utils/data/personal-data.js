@@ -9,5 +9,5 @@ export const personalData = {
   facebook: 'https://www.facebook.com',
   linkedIn: 'https://www.linkedin.com/in/takashi-19951114',
   twitter: 'https://twitter.com/orinaf1114',
-  resume: "https://drive.google.com/file/d/1cDy-PYz1MIpQnVOuyh-xCyV2uGRyuxwb/view?usp=sharing"
+  resume: "https://cvdesignr.com/p/6667ba779625e"
 }
